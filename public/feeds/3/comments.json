@@ -1,0 +1,20 @@
+{
+    "comments": [
+        {
+            "id": 3,
+            "user": {
+                "id": 6,
+                "username": "User 6"
+            },
+            "comment": "Nice!"
+        },
+        {
+            "id": 3,
+            "user": {
+                "id": 3,
+                "username": "User 3"
+            },
+            "comment": "Thx!"
+        }
+    ]
+}
